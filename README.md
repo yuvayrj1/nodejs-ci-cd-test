@@ -16,3 +16,5 @@ Testing application links :
 https://www.softwaretestinghelp.com/node-js-testing-framework/
 
 Jenkins configuration done
+
+staging job configured
